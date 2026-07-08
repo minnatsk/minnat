@@ -1,0 +1,6 @@
+{
+  "name": "Truck Queue & Yard Manager",
+  "description": "A mobile-optimized queue management and facility booking application for truck drivers, truck owners, and manufacturing yards to coordinate arrivals and secure basic rest facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Milaap Yard Dignity Queue & Facilities",
+  "short_name": "Milaap Yard",
+  "description": "Mobile-optimized queue management and basic rest facility booking system for truck drivers and manufacturing yards.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#030712",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "/icon-192.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
